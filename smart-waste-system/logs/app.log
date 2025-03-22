@@ -1,0 +1,16 @@
+2025-03-22 16:22:44,853 - AgriWasteAdvisor - INFO - Initializing systems...
+2025-03-22 16:22:44,855 - HybridClassifier - INFO - Loading latest model: models\hybrid_model.keras
+2025-03-22 16:22:45,232 - HybridClassifier - INFO - Model successfully built.
+2025-03-22 16:22:45,232 - HybridClassifier - INFO - HybridCropClassifier initialized with img_size=224 and num_classes=6
+2025-03-22 16:22:45,233 - HybridClassifier - ERROR - Error loading model: File not found: filepath=models\hybrid_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-03-22 16:22:45,234 - AgriWasteAdvisor - ERROR - Initialization failed: File not found: filepath=models\hybrid_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-03-22 16:22:45,395 - tensorflow - WARNING - From C:\Users\91636\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-03-22 16:29:30,257 - AgriWasteAdvisor - INFO - Initializing systems...
+2025-03-22 16:29:30,258 - HybridClassifier - INFO - Loading latest model: models\hybrid_model.keras
+2025-03-22 16:29:30,433 - HybridClassifier - INFO - Model successfully built.
+2025-03-22 16:29:30,434 - HybridClassifier - INFO - HybridCropClassifier initialized with img_size=224 and num_classes=6
+2025-03-22 16:29:30,434 - HybridClassifier - ERROR - Error loading model: File not found: filepath=models\hybrid_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-03-22 16:29:30,435 - AgriWasteAdvisor - ERROR - Initialization failed: File not found: filepath=models\hybrid_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-03-22 16:29:30,592 - tensorflow - WARNING - From C:\Users\91636\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+

@@ -1,0 +1,22 @@
+
+waste_id,waste_name,moisture_content,carbon_nitrogen_ratio,decomposition_rate,texture,processing_difficulty,material_category,potential_applications
+1,Fruit Peels,High,Low,Fast,Soft,Low,Kitchen,Compost|Biogas|Natural Dyes
+2,Vegetable Scraps,Medium,Medium,Medium,Mixed,Low,Kitchen,Compost|Animal Feed|Broth Base
+3,Coffee Grounds,Medium,Low,Medium,Grainy,Low,Kitchen,Compost|Fertilizer|Beauty Products|Odor Absorber
+4,Eggshells,Low,High,Slow,Hard,Medium,Kitchen,Calcium Supplement|Garden Pest Control|DIY Chalk
+5,Leaves,Low,High,Medium,Crisp,Low,Garden,Mulch|Compost|Fire Starters
+6,Grass Clippings,High,Low,Fast,Soft,Low,Garden,Mulch|Compost|Livestock Feed
+7,Wood Chips,Low,High,Slow,Hard,Medium,Garden,Mulch|Compost Additive|Crafts
+8,Nut Shells,Low,High,Slow,Hard,High,Kitchen,Mulch|Fire Starters|Abrasive Cleaners
+9,Bread,Medium,Medium,Fast,Soft,Low,Kitchen,Animal Feed|Compost|Croutons
+10,Dairy Products,High,Low,Fast,Liquid,Medium,Kitchen,Biogas|Compost (limited)
+11,Paper Waste,Low,High,Medium,Soft,Low,Household,Paper Pulp|Compost|Fire Starters
+12,Cardboard,Low,High,Medium,Stiff,Medium,Household,Paper Pulp|Compost|Garden Weed Barrier
+13,Yard Trimmings,Medium,Medium,Medium,Mixed,Medium,Garden,Compost|Mulch|Biogas
+14,Tea Leaves,Medium,Medium,Medium,Grainy,Low,Kitchen,Compost|Garden Fertilizer|Natural Dyes
+15,Fruit Seeds,Low,High,Slow,Hard,Medium,Kitchen,Growing New Plants|Crafts|Compost
+16,Corn Cobs,Medium,High,Medium,Hard,Medium,Kitchen,Animal Feed|Fire Starters|Scrubbers
+17,Banana Peels,High,Low,Fast,Soft,Low,Kitchen,Compost|Plant Fertilizer|Shoe Polish|Natural Cleaner
+18,Potato Peels,Medium,Medium,Medium,Soft,Low,Kitchen,Compost|Natural Starch|Face Mask
+19,Onion Skins,Low,Medium,Medium,Thin,Low,Kitchen,Natural Dyes|Compost|Stock Base
+20,Avocado Pits,Low,High,Slow,Hard,High,Kitchen,Dye Source|Grow New Plant|Crafts

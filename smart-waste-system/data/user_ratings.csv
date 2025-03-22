@@ -1,0 +1,42 @@
+
+user_id,waste_id,rating,application
+1,1,4.5,Compost
+1,3,5.0,Fertilizer
+1,5,3.5,Mulch
+1,7,2.0,Mulch
+2,2,4.0,Compost
+2,6,4.5,Mulch
+2,9,3.0,Animal Feed
+2,11,3.5,Compost
+3,3,5.0,Odor Absorber
+3,4,4.5,Garden Pest Control
+3,8,3.0,Fire Starters
+3,12,4.0,Garden Weed Barrier
+4,1,3.5,Natural Dyes
+4,10,2.5,Compost
+4,14,4.5,Natural Dyes
+4,17,5.0,Plant Fertilizer
+5,5,4.0,Fire Starters
+5,9,3.5,Croutons
+5,13,4.0,Mulch
+5,16,3.0,Scrubbers
+6,2,3.5,Broth Base
+6,7,4.0,Crafts
+6,19,4.5,Stock Base
+6,20,3.0,Dye Source
+7,4,4.0,DIY Chalk
+7,11,3.5,Paper Pulp
+7,15,4.5,Crafts
+7,18,3.0,Face Mask
+8,6,4.5,Compost
+8,10,2.0,Biogas
+8,16,3.5,Fire Starters
+8,19,4.0,Natural Dyes
+9,3,4.5,Beauty Products
+9,8,3.0,Abrasive Cleaners
+9,12,3.5,Compost
+9,17,5.0,Shoe Polish
+10,1,4.0,Biogas
+10,5,3.5,Compost
+10,13,4.5,Biogas
+10,18,4.0,Natural Starch
